@@ -5,3 +5,4 @@ def farewell():
 
 def chat():
     print('How are you?')
+    print('I am great how about you')
