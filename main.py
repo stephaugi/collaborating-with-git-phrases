@@ -8,3 +8,6 @@ def chat():
 
 def wave():
     print('wave')
+
+def laugh():
+    print("Hahaha!")
