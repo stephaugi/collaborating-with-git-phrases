@@ -8,3 +8,6 @@ def chat():
 
 def wave():
     print('wave')
+
+def new_conflict():
+    print('conflict')
