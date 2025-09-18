@@ -7,13 +7,11 @@ def chat():
     print('How are you?')
     print('I am great how about you')
 
-def wave():
-    print('wave')
-    
 def check():
     print("You ok?")
 
 def laugh():
     print("Hahaha!")
+
 def new_conflict():
     print('conflict')
