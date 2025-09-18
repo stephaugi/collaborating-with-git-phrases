@@ -9,6 +9,9 @@ def chat():
 
 def wave():
     print('wave')
+    
+def check():
+    print("You ok?")
 
 def laugh():
     print("Hahaha!")
