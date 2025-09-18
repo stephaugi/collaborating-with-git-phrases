@@ -3,10 +3,6 @@ def greet():
 def farewell():
     print("Goodbye, World!")
 
-def chat():
-    print('How are you?')
-    print('I am great how about you')
-
 def check():
     print("You ok?")
 
@@ -15,3 +11,6 @@ def laugh():
 
 def new_conflict():
     print('conflict')
+
+def another_conflict():
+    print('conflict!!!!')
